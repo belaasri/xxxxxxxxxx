@@ -1,0 +1,25 @@
+my-youtube-downloader/
+├── pages/
+│   ├── index.tsx
+│   ├── _app.tsx
+│   ├── _document.tsx
+│   └── api/
+│       └── videos.js
+├── components/
+│   └── ui/
+│       ├── button.tsx
+│       ├── input.tsx
+│       ├── alert.tsx
+│       ├── tabs.tsx
+│       └── select.tsx
+├── styles/
+│   └── globals.css
+├── public/
+│   └── favicon.ico
+├── .gitignore
+├── package.json
+├── next.config.js
+├── tsconfig.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
